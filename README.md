@@ -40,5 +40,5 @@ The **Password Manager App** is a secure and user-friendly desktop application b
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
+   git clone https://github.com/dukelester/password-manager.git
    cd password-manager
